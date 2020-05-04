@@ -1,5 +1,0 @@
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} ^(.*)/index.html$
-RewriteCond %{REQUEST_FILENAME} -s
-RewriteRule ^.*$ - [NC,L]
-RewriteRule ^(.*)/index.html$ http://example.com/$1 [R=301,L,NC]
