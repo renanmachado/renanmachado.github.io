@@ -67,7 +67,7 @@
     </div>
   </nav>
   <!-- Home-->
-  <section class="home-area element-cover-bg" id="home" style="background-image:url(/img/renan-home.jpg)">
+  <section class="home-area element-cover-bg" id="home" style="background-image:url(/public/img/renan-home.jpg)">
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center">
         <div class="col-12 col-lg-8 home-content text-center">
