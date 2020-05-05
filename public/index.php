@@ -25,7 +25,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/public/img/favicons/favicon-16x16.png">
 <link rel="manifest" href="/public/img/favicons/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/img/favicons/ms-icon-144x144.png">
+<meta name="msapplication-TileImage" content="/public/img/favicons/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
   <!-- Web fonts-->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&amp;display=swap" rel="stylesheet">
@@ -80,7 +80,7 @@
       <!-- Languages list-->
       <div class="fixed-block block-left">
         <ul class="list-unstyled languages-list">
-          <li><a href="/"><span class="single-language">ENG</span></a></li>
+          <li><a href="/index.html"><span class="single-language">ENG</span></a></li>
         </ul>
       </div>
       <!-- Social media icons-->
@@ -122,9 +122,9 @@
                 <div class="col-12 col-lg-7 info-content">
                   <div class="content-block">
                     <h2 class="content-subtitle">Who am i?</h2>
-                    <h6 class="content-title">I'm Renan Machado, a Digital Entrepreneur and Back-End Developer</h6>
+                    <h6 class="content-title">I'm Renan Machado, a Back-End Developer and Digital Entrepreneur </h6>
                     <div class="content-description">
-                      <p>I am a Digital Entrepreneur and Back-End Developer, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
+                      <p>I am a Back-End Developer and Digital Entrepreneur, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
                     </div>
                     <address class="content-info">
                       <div class="row">
@@ -195,123 +195,123 @@
               <!-- Thumbnail list-->
               <div class="portfolio-grid row">
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/metcha.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/metcha.png">
                       <div class="item-content">
                         <h6 class="content-title">METCHA | the oracle of leather design culture.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Leading Back-End Developer & Devops</h6><span class="content-more"> <a href="https://metcha.com/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/mor.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/mor.png">
                       <div class="item-content">
                         <h6 class="content-title">Mor | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Leading Back-End Developer & Devops</h6><span class="content-more"> <a href="https://mor.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/coza.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/coza.png">
                       <div class="item-content">
                         <h6 class="content-title">Coza | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Leading Back-End Developer & Devops</h6><span class="content-more"> <a href="https://www.coza.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
 
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/melissa.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/melissa.png">
                       <div class="item-content">
                         <h6 class="content-title">Melissa | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="https://www.melissa.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/minimelissa.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/minimelissa.png">
                       <div class="item-content">
                         <h6 class="content-title">Mini Melissa | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Leading Back-End Developer</h6><span class="content-more"> <a href="https://www.minimelissa.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/cicb.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/cicb.png">
                       <div class="item-content">
                         <h6 class="content-title">CICB / CSCB / Lei do Couro / Brazilian Leather | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer & Devops</h6><span class="content-more"> <a href="http://cicb.org.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                    <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 landing-pages"><a class="portfolio-item" href="/public/img/transainc.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 landing-pages">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/transainc.png">
                       <div class="item-content">
                         <h6 class="content-title">Transa / Muda Project | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="http://www.transainc.com/muda" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/vibra.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/vibra.png">
                       <div class="item-content">
                         <h6 class="content-title">Vibra | Website.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer & Devops</h6><span class="content-more"> <a href="https://www.vibra.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 websites"><a class="portfolio-item" href="/public/img/cupomland.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 websites">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/cupomland.png">
                       <div class="item-content">
                         <h6 class="content-title">Cupomland | Website.
 </h6><h6 class="content-title">Developed at: @renanmachadoloureiro</h6><h6 class="content-title">Role: Full Stack Developer</h6><span class="content-more"> <a href="https://www.cupomland.com.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                     <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 landing-pages"><a class="portfolio-item" href="/public/img/forum-cicb-2019.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 landing-pages">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/forum-cicb-2019.png">
                       <div class="item-content">
                         <h6 class="content-title">CICB Sustainability Forum | 2019.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="http://forum2019.cicb.org.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 landing-pages"><a class="portfolio-item" href="/public/img/forum-cicb-2018.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 landing-pages">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/forum-cicb-2018.png">
                       <div class="item-content">
                         <h6 class="content-title">CICB Sustainability Forum | 2018.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="http://forum2018.cicb.org.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                 <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 landing-pages"><a class="portfolio-item" href="/public/img/forum-cicb-2019.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 landing-pages">
                     <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="/public/img/forum-cicb-2017.png">
                       <div class="item-content">
                         <h6 class="content-title">CICB Sustainability Forum | 2017.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="http://forumcicb.cicb.org.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
                   <!-- Single item-->
-                <div class="single-item col-6 col-lg-4 landing-pages"><a class="portfolio-item" href="/public/img/forum-cicb-2016.png" data-lightbox>
+                <div class="single-item col-6 col-lg-4 landing-pages">
                     <div class="portfolio-wrapper mb-0"><img class="img-fluid" alt="Item" src="/public/img/forum-cicb-2016.png">
                       <div class="item-content">
                         <h6 class="content-title">CICB Sustainability Forum | 2016.
 </h6><h6 class="content-title">Developed at: @transainc</h6><h6 class="content-title">Role: Back-End Developer</h6><span class="content-more"> <a href="http://forum.cicb.org.br/" target="_blank">View Project</a></span>
                       </div>
                     </div>
-                  </a></div>
+                  </div>
               </div>
             </div>
           </div>
