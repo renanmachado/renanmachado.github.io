@@ -89,7 +89,6 @@
           <li><a href="https://www.instagram.com/renanmachadoloureiro/" target="_blank"><i class="icon ion-logo-instagram"></i></a></li>
           <li><a href="https://www.linkedin.com/in/renanmachadoloureiro/" target="_blank"><i class="icon ion-logo-linkedin"></i></a></li>
           <li><a href="https://github.com/renanmachado" target="_blank"><i class="icon ion-logo-github"></i></a></li>
-          <li><a href="https://www.facebook.com/renanmachadoloureiro/" target="_blank"><i class="icon ion-logo-facebook"></i></a></li>
           <li><a href="https://api.whatsapp.com/send?phone=+5551986022788" target="_blank"><i class="icon ion-logo-whatsapp"></i></a></li>
         </ul>
       </div>  
