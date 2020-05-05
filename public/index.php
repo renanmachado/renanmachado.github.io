@@ -80,7 +80,7 @@
       <!-- Languages list-->
       <div class="fixed-block block-left">
         <ul class="list-unstyled languages-list">
-          <li><a href="/public/index.html"><span class="single-language">ENG</span></a></li>
+          <li><a href="/"><span class="single-language">ENG</span></a></li>
         </ul>
       </div>
       <!-- Social media icons-->
