@@ -122,9 +122,9 @@
                 <div class="col-12 col-lg-7 info-content">
                   <div class="content-block">
                     <h2 class="content-subtitle">Who am i?</h2>
-                    <h6 class="content-title">I'm Renan Machado, a Back-End Developer and Digital Entrepreneur </h6>
+                    <h6 class="content-title">I'm Renan Machado, a Digital Entrepreneur and Back-End Developer</h6>
                     <div class="content-description">
-                      <p>I am a Back-End Developer and Digital Entrepreneur, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
+                      <p>I am a Digital Entrepreneur and Back-End Developer, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
                     </div>
                     <address class="content-info">
                       <div class="row">
