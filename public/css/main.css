@@ -973,9 +973,11 @@ hr {
 }
 
 @media (max-width: 767.98px) {
-  .home-area .fixed-wrapper {
-    display: none;
+  .home-area .fixed-wrapper .social-icons>li {
+    display: inline-block;
+    margin-left: 14px
   }
+
 }
 
 @media (max-width: 575.98px) {
