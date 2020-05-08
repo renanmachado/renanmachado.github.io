@@ -2,15 +2,15 @@
 <html lang="en">
 
 <head>
-  <!-- Required meta tags-->
-  <meta charset="utf-8">
-  <!-- Title-->
-  <title>Renan Machado - Personal Portfolio</title>
-  <!-- Description-->
-  <meta name="description" content="Renan Machado - Personal Portfolio">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- Favicons-->
-  <link rel="apple-touch-icon" sizes="57x57" href="/public/img/favicons/apple-icon-57x57.png">
+<!-- Required meta tags-->
+<meta charset="utf-8">
+<!-- Title-->
+<title>Renan Machado - Personal Portfolio</title>
+<!-- Description-->
+<meta name="description" content="Renan Machado - Personal Portfolio">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- Favicons-->
+<link rel="apple-touch-icon" sizes="57x57" href="/public/img/favicons/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/public/img/favicons/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/public/img/favicons/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/public/img/favicons/apple-icon-76x76.png">
@@ -123,7 +123,7 @@
                     <h2 class="content-subtitle">Who am i?</h2>
                     <h6 class="content-title">I'm Renan Machado, a Back-End Developer and Digital Entrepreneur </h6>
                     <div class="content-description">
-                      <p>I am a Back-End Developer and Digital Entrepreneur, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
+                      <p>I am a Digital Entrepreneur and Back-End Developer, I currently work as a freelancer and have my own business in the digital marketing area. Throughout my career I have built some websites and managed development teams.</p>
                     </div>
                     <address class="content-info">
                       <div class="row">
