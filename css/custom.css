@@ -48,3 +48,9 @@
 .contact-info {
   text-align: center;
 }
+
+@media (max-width: 767.98px) {
+  .contact-info {
+    text-align: initial;
+  }
+}
